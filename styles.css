@@ -1,0 +1,35 @@
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: gray;
+    padding: 2rem;
+    text-align: center;
+}
+
+header nav a {
+    margin: 10px;
+    color: white;
+}
+
+section {
+    padding: 3rem;
+}
+
+form input, textarea {
+    padding: 10px;
+    width: 90%;
+    margin: 2px;
+}
+
+button {
+    padding: 4px;
+}
+
+footer {
+    background-color: gray;
+    padding: 2rem;
+    text-align: center;
+}
